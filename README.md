@@ -31,7 +31,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/lucascmpus/lucascmpus/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
