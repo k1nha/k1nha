@@ -41,8 +41,6 @@
   //<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmpus&hide=html&layout=compact" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmpus&hide=html&layout=compact" />
-
 ###
 
 <h4 align="left">Contato</h4>
