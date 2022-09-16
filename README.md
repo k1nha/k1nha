@@ -41,7 +41,7 @@
   //<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmpus&hide=html&layout=compact" />
 </div>
 
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmpus&hide=html&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmpus&hide=html&layout=compact" />
 
 ###
 
