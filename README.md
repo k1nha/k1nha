@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📖 Estudante em Desenvolvimento de Sistemas. Dedicado e apaixonado por tecnologia.<br><br>💻 Desenvolvedor Front-end<br>• Atualmente desenvolvendo alguns projetos a partir de cursos e conhecimentos adquiridos na internet. Foco em aprender constantemenet e aprimorar minhas habilidades técnicas e soft-skills.</p>
+<p align="left">📖 Estudante em Desenvolvimento de Sistemas. Dedicado e apaixonado por tecnologia.<br><br>💻 Desenvolvedor Full-Stack focado em React e Node<br>• Atualmente desenvolvendo alguns projetos a partir de cursos e conhecimentos adquiridos na internet. Foco em aprender constantemenet e aprimorar minhas habilidades técnicas e soft-skills.</p>
 
 ###
 
