@@ -11,7 +11,7 @@
 
 - 🟦 Or via linkedin: <a href="https://www.linkedin.com/in/lucascmpus/" target="_blank">**Lucas Campos**</a>
 
-- 📝 <a href="https://www.portfolio-lucascmpus.vercel.app" target="_blank">**My Portfolio**</a>
+- 📝 <a href="https://portfolio-lucascmpus.vercel.app" target="_blank">**My Portfolio**</a>
 
 
 ###
