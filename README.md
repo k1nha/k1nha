@@ -1,45 +1,19 @@
-<h1 align="center">Hello, I'm Lucas Campos</h1>
-<h3 align="center">FullStack Developer</h3>
-
-###
-------------------------------------------------------
-<h3 align="left">♣️ About Me</h3>
-
-- 👨🏻‍💻 I’m a **FullStack Developer**
-
-- 📫 How to reach me **lucascmpusdev@gmail.com** 
-
-- 🟦 Or via linkedin: <a href="https://www.linkedin.com/in/lucascmpus/" target="_blank">**Lucas Campos**</a>
-
-- 📝 <a href="https://portfolio-lucascmpus.vercel.app" target="_blank">**My Portfolio**</a>
-
-
-###
-------------------------------------------------------
-<h3 align="left">🧩 Languages:</h3>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,java,py)](https://skillicons.dev)
-
-
-###
-------------------------------------------------------
-<h3 align="left">⛏ Tools and Frameworks:</h3>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=nestjs,tailwind,express,styledcomponents,sass,figma,git,prisma)](https://skillicons.dev)
-
-
-###
+### Hello, I'm Lucas 🖐
 
 ------------------------------------------------------
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmpus&hide=html&layout=compact&theme=dracula" />
-</div>
+👨🏻‍💻 **FrontEnd Developer** <br>
+🇧🇷
 
-###
+### Trying to create solutions with 🧱
 
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
+### Learning about ✍️
+[![Learning](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+
+### Find me 🌎
+
+📝 - [Site](https://portfolio-lucascmpus.vercel.app) <br>
+🟦 - [LinkedIn](https://www.linkedin.com/in/lucascmpus/) <br>
+📫 - [Email](mailto:lucascmpusdev@gmail.com) <br>
