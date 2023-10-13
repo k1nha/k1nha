@@ -2,7 +2,7 @@
 
 ------------------------------------------------------
 
-👨🏻‍💻 **FrontEnd Developer** <br>
+👨🏻‍💻 **FrontEnd Developer, trying BackEnd** <br>
 🇧🇷
 
 ### Trying to create solutions with 🧱
